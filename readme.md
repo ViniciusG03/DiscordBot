@@ -1,6 +1,6 @@
 # Multifunctional DiscordBot
 
-## DiscordBot com multiplas funções feito em JS com suporte a database MySQL
+DiscordBot com multiplas funções feito em JS com suporte a database MySQL
 
 # 🤖・Recursos do projeto:
 
