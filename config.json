@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "idServer": "",
+    "colorEmbed": "#FF1493",
+
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": "",
+    "ssl": {
+        "rejectUnauthorized": true
+    }
+    
+}
